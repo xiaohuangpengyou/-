@@ -84,3 +84,8 @@ exclude:
   - "*.Rmd"
   - vendor
   - .travis.yml
+<<<<<<< HEAD
+=======
+
+theme: jekyll-theme-modernist
+>>>>>>> 0c79c96b6586e63cc049ad2f64d5f4dea17711b0
