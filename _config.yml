@@ -85,4 +85,4 @@ exclude:
   - vendor
   - .travis.yml
 
-theme: jekyll-theme-architect
+theme: jekyll-theme-modernist
